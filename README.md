@@ -1,27 +1,67 @@
-# Next.js + Tailwind CSS Example
+# Frontend Mentor - Advice generator app solution
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Preview
+## Table of contents
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Deploy your own
+## Overview
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+### The challenge
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+Users should be able to:
 
-## How to use
+- Generate a random advice
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+### Links
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+- Solution URL: [https://www.frontendmentor.io/solutions/adviser-with-nextjs-and-tailwindcss-bVX2DL5gF](https://www.frontendmentor.io/solutions/adviser-with-nextjs-and-tailwindcss-bVX2DL5gF)
+- Live Site URL: [https://adviser-tawny.vercel.app/](https://adviser-tawny.vercel.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind](https://tailwindcss.com/) - For styles
+
+### What I learned
+
+I learnt nothing new but some css.
+
+```css
+.proud-of-this-css {
+  tranformations: translateAndRotate;
+}
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### Continued development
+
+I would focus on creating more backend applications and clones, so that I can improve my skills and take over MAANG.
+
+## Author
+
+- Website - [Adion](https://www.adion.vercel.app)
+- Frontend Mentor - [@Adion52330](https://www.frontendmentor.io/profile/Adion52330)
+- Instagram - [@velocity.coder_aditya](https://www.instagram.com/velocity.coder_aditya)
+
+## Acknowledgments
+
+I would like to thank to my frontendmentor.io for giving me this awesome project to do.
+Thanks!
